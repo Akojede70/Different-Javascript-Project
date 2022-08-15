@@ -1,1 +1,1 @@
-# Different-Javascript-Project
+# Different-Javascript-Projects
