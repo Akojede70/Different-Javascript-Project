@@ -1,7 +1,7 @@
 # Different-Javascript-Projects
 
 
-**Scroll File:** This contain a web Project which will be very easy to navigate through. it has a navbar and a toggle function when you are on a smaller screen.The front page contain a transparent Image. it also involve a fontawesome Icon that will show up after you have scroll down the page of the website and once you click on the Icon it will take you directly to the home Page.  
+**Scroll File:** This contain a web Project which will be very easy to navigate through. it has a navbar and a toggle function when you are on a smaller screen. The (Home, About, Services, and Tour link) in the navbar will also appear in a smaller screen once you click on on the toggle Icon. The front page contain a transparent Image. it also involve a fontawesome Icon that will show up after you have scroll down to a certain height of the page of the website, and once you click on the Icon it will take you directly to the home Page/(front page of the website).  
 
 
 **Sidebar File:** The side bar Project involve a toggle Icon at the front Page of the website, once you click on the toggle Icon the sidebar will pop-up, and once you also click on the Icon again the sidebar will move away from the screen. There is also a close button at the side bar once you also click on it, the sidebar will also move away from the screen.  There are some link at the side bar which involve, Home, About, Project, Contact. And also some Social Media Icon.
